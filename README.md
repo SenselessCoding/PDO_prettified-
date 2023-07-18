@@ -1,7 +1,7 @@
 # PDO_prettified-
 As mentioned in PDO, I tried to make a simple design<br>
 
-I will use the base of my [PDO Project]() and make it look a bit more modern.<br>
+I will use the base of my [PDO Project](https://github.com/SenselessCoding/PDO) and make it look a bit more modern.<br>
 Major difference is the formatting, info msg and some basic error handling.<br>
 For this we will be using tailwind:<br>
 ```php
