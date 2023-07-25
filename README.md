@@ -88,7 +88,7 @@ session_start();
 ```
 
 For all the other files:<br>
-I added try catch for error handling and used ``PDOException $e`` for it.<br>
+I added try catch for error handling.<br>
 f.e.:<br>
 ```php
 <?php
